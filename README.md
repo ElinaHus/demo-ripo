@@ -49,6 +49,8 @@ readme is a default file that presents in every github project
 
     git fetch origin
     git pull
+
+  the end
   
 
 
