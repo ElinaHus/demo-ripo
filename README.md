@@ -30,7 +30,27 @@ readme is a default file that presents in every github project
     * password can be skipped
     * two testkeys generated: testkey (private) and testkey.pun (publib)
     * cat testkey.pub to access the content of testkey.pub, and copy the key and paste in settings in github add key section
-    * 
+
+* for pushing into the remote repository
+
+    git init
+    git push -u origin main
+
+    if donesn't work, then u should track files:
+
+    git add .
+    git commit -m "..."
+
+    hint: origin is the name of the remote repository. to see the names of remote repositories type:
+
+    git remote -v
+
+
+
+
+
+
+
 
     
 
