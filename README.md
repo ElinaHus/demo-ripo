@@ -48,8 +48,8 @@ readme is a default file that presents in every github project
 * for donwloading updates from the remote to local repository
 
     git fetch origin
-
-###
+    git pull
+  
 
 
 
