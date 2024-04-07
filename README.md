@@ -20,6 +20,18 @@ readme is a default file that presents in every github project
         git add .   # track all of the files used in folder
         git index.html  # track index.html file
 
-* if changes made on my local repository in visual, then it can be transfered to github using:
+* to commit changes:
+
+    git commit -m  "added new html file" -m  "some description"    # -m stands for a message and it must be included, while second -m is for description and its optional
+
+* if changes made on my local repository in visual, then it can be transfered to github by following steps:
+    * first create a ssh key by ssh-keygen -t rsa -b 4096 -C "elina.huseynova2003@gmail.com"
+    * then, name it ( in this repository i named it testkey)
+    * password can be skipped
+    * two testkeys generated: testkey (private) and testkey.pun (publib)
+    * cat testkey.pub to access the content of testkey.pub, and copy the key and paste in settings in github add key section
+    * 
+
+    
 
     
