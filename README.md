@@ -33,8 +33,8 @@ readme is a default file that presents in every github project
 
 * for pushing into the remote repository
 
-    git init
-    git push -u origin main
+    git init 
+    git push -u origin main 
 
     if donesn't work, then u should track files:
 
@@ -44,6 +44,11 @@ readme is a default file that presents in every github project
     hint: origin is the name of the remote repository. to see the names of remote repositories type:
 
     git remote -v
+
+* for donwloading updates from the remote to local repository
+
+    git fetch origin
+
 
 
 
