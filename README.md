@@ -38,7 +38,7 @@ readme is a default file that presents in every github project
 
     if donesn't work, then u should track files:
 
-    git add .
+    git add . 
     git commit -m "..."
 
     hint: origin is the name of the remote repository. to see the names of remote repositories type:
@@ -49,7 +49,7 @@ readme is a default file that presents in every github project
 
     git fetch origin
 
-
+###
 
 
 
